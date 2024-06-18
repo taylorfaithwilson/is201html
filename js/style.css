@@ -1,0 +1,87 @@
+/* Global settings */
+body {
+    font-family: Arial, sans-serif;
+    color: #333; /* Default font color */
+    background-color: #a3dcbe; /* Background color for the entire page */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header style */
+header {
+    background-color: #007bff; /* Header background color */
+    color: white; /* Header text color */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Main content area */
+.main-content {
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+}
+
+/* Styling for individual sections */
+.section {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+}
+
+/* Footer style */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* callout box */
+.callout {
+    background-color: #ffeeba;
+    border: 1px solid #ffc107;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* sidebar */
+.sidebar {
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+    padding: 10px;
+    width: 30%;
+    float: right;
+    margin-left: 10px;
+}
+
+/* centered box */
+.centered-box {
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    padding: 20px;
+    text-align: center;
+    margin: 20px auto;
+    width: 50%;
+}
+
+div {
+font-size: 700;
+}
+
+div#video {
+    text-align: center;
+}
+
+div#tab {
+    text-align: center;
+}
+  
+  div#img {
+    text-align: center;
+  }
